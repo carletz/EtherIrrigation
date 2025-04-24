@@ -80,3 +80,16 @@ A full production package (Gerber files, BOM, 3D renderings) are included.
 Created with **EasyEDA**, not sponsorized by...
 
 ---
+
+## ⚠️ Disclaimer
+
+This project is provided **for educational purposes only**.
+
+The author(s) of this repository do **not take any responsibility** for:
+- Incorrect use of the design or schematics
+- Damage to equipment, persons, or property
+- Installation in unsafe or non-compliant environments
+
+Any implementation of this project in real-world systems should be done **under the responsibility of a qualified professional**, and in compliance with local regulations and safety standards.
+
+By using this material, you acknowledge that it is offered **as-is, without warranty of any kind**, and you agree to use it **at your own risk**.
