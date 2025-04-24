@@ -1,8 +1,8 @@
 # 💧 EtherIrrigation - Another Irrigation Controller – 2025
+
 This project is an electronic system designed for **automated irrigation control**. It integrates input sensors, logic control, and power output sections to manage valves and environmental readings efficiently.
 The aim of this project is to have an ehternet controller into my garden. WiFi wasn't available so I decided to redesign it starting from other projects found on the net.
 The design is based on this dimension because I put everything inside a 4 DIN module box desiged by me and 3D printed. Probably everything can be redesigned on a single board and rebuild with the same effectiveness.
----
 
 ## 🧩 Project Structure
 
