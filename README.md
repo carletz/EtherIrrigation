@@ -24,6 +24,7 @@ The system is divided into three main sections:
    - MOSFETs to drive solenoids
    - Surge protection and fuse circuits
    - Isolated DC/DC converters
+   - Power from 24VAC source and 5V power supply, unfortunately the internal power supply seem to be insufficient for power up all boards...
 
 ---
 
@@ -76,6 +77,6 @@ A full production package (Gerber files, BOM, 3D renderings) are included.
 - Control schematic: V2.4 (April 2025)
 - Power schematic: V2.4 (April 2025)
 
-Created with **EasyEDA**.
+Created with **EasyEDA**, not sponsorized by...
 
 ---
